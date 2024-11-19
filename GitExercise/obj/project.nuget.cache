@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tfLKB9G4GYbFqSM01i0HzH7wYPnHQSuy0EumFROFxhL0lrZIdlvOU1X8SS+G5hFlop0r9ThxZhLu0w9VkSoV+Q==",
+  "success": true,
+  "projectFilePath": "D:\\пгтт 2022\\12 кл\\Софтуерно инженерство\\23.11\\GitExercise\\GitExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ПреславаКНиколова\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ПреславаКНиколова\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ПреславаКНиколова\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ПреславаКНиколова\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

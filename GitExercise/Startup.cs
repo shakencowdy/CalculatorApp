@@ -6,6 +6,16 @@ namespace GitExercise
     {
         public static void Main()
         {
+            const string correctPassword = "abcd1234";
+            Console.WriteLine("Console Calculator App");
+            Console.WriteLine(new string('-', 15));
+        string userInput = Console.ReadLine();
+
+        if (userInput == correctPassword)
+        {
+            Console.WriteLine("Correct Password!");
+        }
+            //123sadasdasfasf
             Console.WriteLine("Console Calculator App");
             Console.WriteLine(new string('-', 15));
 
@@ -41,7 +51,14 @@ namespace GitExercise
                 case "ad":
                     OptionsManager.AbsoluteDivide(a, b);
             }
-
+     
+        else
+        {
+            Console.WriteLine("Wrong Password!");
+            // Optionally, exit the program
+            Environment.Exit(0);
+        }
+        }
             Console.WriteLine("Pres any key to close the app...");
             Console.ReadKey(true);
         }
